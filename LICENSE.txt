@@ -1,0 +1,15 @@
+This software constitutes the AI Observers models (trained Matlab NNs) presented in the paper 
+
+"Predicting Individual Quality Ratings of Compressed Images through Deep CNNs-based Artificial Observers"
+
+by Lohic Fotio Tiotsop, Antonio Servetti, Marcus Barkowsky, Peter Pocta, Tomas Mizdos, Glenn Van Wallendael, Enrico Masala,
+
+Signal Processing: Image Communications, vol. 112, Mar 2023, pp. 1-15, DOI: 10.1016/j.image.2022.116917 (ISSN: 0923-5965)  
+Author's version: https://media.polito.it/web/res/2023/01/Fotio_SPIC2023_author_version.pdf
+
+The software is provided free of charge.
+We kindly ask anyone using the software to cite the previous paper.
+
+Please note that this software is meant to be a prototype only, it is not optimized or fitted to any purposes. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Also, please note that the availability of this software does not give you any right about patents covering the technologies implemented therein.
+
